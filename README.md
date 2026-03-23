@@ -31,22 +31,22 @@ and built an ML forecasting model using Python.
 ## Project Charts
 
 ### Monthly Revenue Trend
-![Monthly Trend](charts/chart1_monthly_trends.png)
+![Monthly Trend](chart1_monthly_trends.png)
 
 ### Top Product Categories
-![Categories](charts/chart2_categories.png)
+![Categories](chart2_categories.png)
 
 ### State & Payment Analysis
-![State Payment](charts/chart3_state_payment.png)
+![State Payment](chart3_state_payment.png)
 
 ### Delivery & Customer Reviews
-![Delivery Reviews](charts/chart4_delivery_reviews.png)
+![Delivery Reviews](chart4_delivery_reviews.png)
 
 ### Revenue Heatmap
-![Heatmap](charts/chart5_heatmap.png)
+![Heatmap](chart5_heatmap.png)
 
 ### ML Sales Forecasting
-![ML Forecast](charts/chart6_ml_forecast.png)
+![ML Forecast](chart6_ml_forecast.png)
 
 ---
 
